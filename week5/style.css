@@ -1,0 +1,28 @@
+body{margin: 0}
+
+#one{background-color: #CD533B;
+	padding: 10px;
+	margin: 20px;
+	border: 5px solid black;
+	height: 150px;
+	width: 25%;
+	float: left;
+	}
+
+#two{background-color: #FFBF46;
+	padding: 10px;
+	margin: 20px;
+	border: 5px solid black;
+	height: 150px;
+	width: 25%;
+	float: left;
+	}
+
+#three{background-color: #574F2A;
+	padding:  10px;
+	margin: 20px;
+	border: 5px solid black;
+	height: 150px;
+	width:25%;
+	float: left;
+	}
