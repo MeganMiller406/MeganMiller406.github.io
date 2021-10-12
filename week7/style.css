@@ -1,0 +1,58 @@
+#HersheyTitle {background-color: #6C9A8B;
+		padding: 10px;
+		text-align: center;
+		font-family: 'DM Sans',sans-serif;
+}
+
+#BrownieInformation {background-color: #4B644A;
+		text-align: center;
+		margin-bottom:  5px;
+    	padding:  25px;
+    	font-family: 'DM Sans',sans-serif;
+}
+
+.container1 {background-color: #035E7B;
+		margin: 5px;
+		padding: 25px;
+}
+
+.container2 {background-color: #A63C06;
+		margin: 5px;
+		padding: 25px;
+}
+
+.container3 {background-color: #C36F09;
+		padding: 25px;
+		display: inline-flex;
+		align-items: bottom;
+		align-items: center;
+		font-family: 'DM Sans',sans-serif;
+		margin: auto;
+}
+
+.image {padding: 25px;
+}
+
+#Btitle {padding: 10px;
+	text-align: center;
+	font-family: 'DM Sans',sans-serif;
+}
+
+#BCtitle {padding: 10px;
+	text-align: center;
+	font-family: 'DM Sans',sans-serif;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#Bingredients, #Bequipment {width: 50%;
+	float: left;
+}
+
+#Bdirections {content: center;
+}
+
