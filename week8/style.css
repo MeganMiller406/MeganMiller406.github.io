@@ -1,0 +1,56 @@
+#HersheyTitle {
+		background-color: #BABF95;
+		padding: 10px;
+		text-align: center;
+		font-family: 'DM Sans',sans-serif;
+}
+
+.BrownieContainer {
+		background-color: #E07A5F;
+		margin: 5px;
+		padding: 25px;
+		font-family: 'DM Sans',sans-serif;
+}
+
+.ButtercreamContainer {
+		background-color: #F2CC8F;
+		margin: 5px;
+		padding: 25px;
+		font-family: 'DM Sans',sans-serif;
+}
+
+.ImageInfoContainer {
+		background-color: #81B29A;
+		padding: 25px;
+		font-family: 'DM Sans',sans-serif;
+}
+
+#image, #text {
+	padding: 25px;
+}
+
+#BrownieHeader {
+	padding: 10px;
+	text-align: center;
+	font-family: 'DM Sans',sans-serif;
+}
+
+#ButtercreamHeader {
+	padding: 10px;
+	text-align: center;
+	font-family: 'DM Sans',sans-serif;
+}
+
+
+@media screen and (max-width: 700px) {
+  body {
+    background-color: black;
+  }
+}
+
+a:hover {
+	background-color: yellow;
+}
+
+
+/*------ .BrownieDirections {float: left; width: 45%} -------*/
